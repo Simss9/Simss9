@@ -1,4 +1,4 @@
-Hi 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Simran Khanna
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simran Khanna
 =====================================================================================================================================
 
 ### CSE Student focused on Java (DSA), Swift (iOS Dev), Prompt Engineering & Generative AI
