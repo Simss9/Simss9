@@ -10,7 +10,7 @@ Lately, I’m exploring **Prompt Engineering and Generative AI**, aiming to crea
 I’ve held leadership roles like **Class Representative**, where I improved team coordination and communication. I'm also known for being kind, helpful, and always eager to collaborate.
 
 Some of my notable projects include:
-- 🚨 MERN-based **Disaster Management System**
+- 🚨 SERN-based **Disaster Management System**
 - 🌊 **Flood Detection System**
 - 🧪 **Self-Healing Concrete** (Patent filed, research co-author)
 
