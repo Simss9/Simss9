@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simran Khanna
 =====================================================================================================================================
 
-### CSE Student focused on Java (DSA), Swift (iOS Dev), Prompt Engineering & Generative AI
+### CSE Student focused on Java (DSA), Java Spring & SpringBoot, Prompt Engineering & Generative AI
 
 I’m a third-year CSE student at Chandigarh University, passionate about problem-solving and emerging tech. I’ve built strong skills in HTML, CSS, JavaScript, React.js, Node.js, MySQL, and Java (DSA).
 
